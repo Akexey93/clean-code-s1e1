@@ -150,11 +150,11 @@ button {
   display: none;
 }
 
-.edit-mode .todo__task {
+.todo__item_edit .todo__task {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode .todo__task-info {
+.todo__item_edit .todo__task-info {
   display: none;
 }
